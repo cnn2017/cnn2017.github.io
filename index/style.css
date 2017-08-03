@@ -15,7 +15,6 @@ body{ background: #f9f9f9 !important;}
 
 .container { margin: 0 auto; max-width: 640px; overflow: hidden; }
 .img { margin: 0 auto; margin-top:180px; margin-left:185px; position:absolute; }
-.b_img { display: block; width: 100%; }
 
 /*微信二维码*/
 .wx_code{position:fixed;width:auto;height:auto;margin-left:68%;top:220px;border:0;padding:0;background-color:#d4000e;z-index:999999999999;}
