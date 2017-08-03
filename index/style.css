@@ -21,6 +21,20 @@ body{ background: #f9f9f9 !important;}
 .ft_wx{background-color:#B70005;}
 .wx_img{text-align:center;}
 
+/*底部添加微信*/
+.openBox-shareEntry *, .openBox-shareEntry *:before, .openBox-shareEntry *:after { margin: 0; padding: 0; }
+.qiao{color: #f00}
+.openBox-shareEntry { margin: 0; padding: 0; position: relative; width: 100%; height: 60px; }
+.openBox-shareEntry div {        /* UCä¸‹è¢«å±è”½ */
+display: block !important; }
+.openBox-shareEntry .shareEntry-blank { box-sizing: border-box; width: 100%; height: 60px; padding: 0px 18px; position: fixed; left: 0; bottom: 0; z-index: 9999; display: -webkit-box !important; display: box !important; -webkit-box-align: center; box-align: center; background-color:#D7000F; }
+.openBox-shareEntry .shareEntry-box { -webkit-box-flex: 1; box-flex: 1; display: -webkit-box !important; display: box !important; box-sizing: border-box; -webkit-box-align: center; box-align: center; }
+.openBox-shareEntry .shareEntry-box .shareEntry-icon { height: 40px; width: 40px; background: url(style/images/shareentry-logo.png) no-repeat; background-size: 40px 40px; border-radius: 4px; overflow: hidden; margin-right: 12px; }
+.openBox-shareEntry .shareEntry-box .shareEntry-text { -webkit-box-flex: 1; box-flex: 1; }
+.openBox-shareEntry .shareEntry-box .shareEntry-title { text-align: left; line-height: 1; font-weight: bold; color: #FFFFFF; font-size: 17px; }
+.openBox-shareEntry .shareEntry-app { width: 75px; box-sizing: border-box; margin-left: 12px; }
+.openBox-shareEntry .shareEntry-app .shareEntry-btn { display: block; width: 75px; height: 30px; line-height: 30px; text-align: center; color: #B70005; font-size: 15px; border-radius: 4px; background-color: #FFFF00; }
+
 /*气泡框*/
 .tag{ width:150px; height:120px; border:1px solid #d4000e; position:relative; background-color:#FFF004;margin-top:-120px;margin-left:125px;}
 .arrow{ position:absolute; width:70px; height:60px; left:-70px; bottom:10px;}
