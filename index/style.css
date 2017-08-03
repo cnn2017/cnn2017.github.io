@@ -1,5 +1,6 @@
 @charset "utf-8";
 
+* {margin: 0;padding: 0;}
 body{ background: #f9f9f9 !important;}
 .clearfix:after{content:'';display:table;clear:both}
 /*header*/
@@ -14,10 +15,11 @@ body{ background: #f9f9f9 !important;}
 .mainNav .navBtn {width:43px;height:43px;position:absolute;top:0px;right:0px;outline:none;text-indent: 999em; background: url(all.png) no-repeat; background-size:100px auto; background-position:11px -22px;}
 
 .container { margin: 0 auto; max-width: 640px; overflow: hidden; }
-.img { margin: 0 auto; margin-top:180px; margin-left:185px; position:absolute; }
 
 /*微信二维码*/
-.wx_code{position:fixed;width:auto;height:auto;margin-left:68%;top:220px;border:0;padding:0;background-color:#d4000e;z-index:999999999999;}
+.wx_code{position:fixed;width:auto;height:auto;margin-left:1300px;;top:220px;border:0;padding:0;background-color:#d4000e;z-index:999999999999;}
+.ft_wx{background-color:#B70005;}
+.wx_img{text-align:center;}
 
 /*气泡框*/
 .tag{ width:150px; height:120px; border:1px solid #d4000e; position:relative; background-color:#FFF004;margin-top:-120px;margin-left:125px;}
