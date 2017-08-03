@@ -14,7 +14,7 @@ body{ background: #f9f9f9 !important;}
 .articleHead .user img{ display: block; height: 30px; line-height: 30px; width: 30px; -moz-border-radius: 15px; -webkit-border-radius: 15px; border-radius: 15px;}
 .mainNav .navBtn {width:43px;height:43px;position:absolute;top:0px;right:0px;outline:none;text-indent: 999em; background: url(all.png) no-repeat; background-size:100px auto; background-position:11px -22px;}
 
-.container { margin: 0 auto; max-width: 640px; overflow: hidden; }
+.container { margin: 0 auto; max-width: 640px; width:100%; overflow: hidden; }
 
 /*微信二维码*/
 .wx_code{position:fixed;width:auto;height:auto;margin-left:1300px;;top:220px;border:0;padding:0;background-color:#d4000e;z-index:999999999999;}
