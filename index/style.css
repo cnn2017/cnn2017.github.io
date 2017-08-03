@@ -24,10 +24,10 @@ body{ background: #f9f9f9 !important;}
 /*底部添加微信*/
 .openBox-shareEntry *, .openBox-shareEntry *:before, .openBox-shareEntry *:after { margin: 0; padding: 0; }
 .qiao{color: #f00}
-.openBox-shareEntry { margin: 0; padding: 0; position: relative; width: 100%; height: 60px; }
+.openBox-shareEntry { margin: 0; padding: 0; position: relative; width: 100%; height: 80px; }
 .openBox-shareEntry div {        /* UCä¸‹è¢«å±è”½ */
 display: block !important; }
-.openBox-shareEntry .shareEntry-blank { box-sizing: border-box; width: 100%; height: 60px; padding: 0px 18px; position: fixed; left: 0; bottom: 0; z-index: 9999; display: -webkit-box !important; display: box !important; -webkit-box-align: center; box-align: center; background-color:#D7000F; }
+.openBox-shareEntry .shareEntry-blank { box-sizing: border-box; width: 100%; height: 80px; padding: 0px 18px; position: fixed; left: 0; bottom: 0; z-index: 9999; display: -webkit-box !important; display: box !important; -webkit-box-align: center; box-align: center; background-color:#D7000F; }
 .openBox-shareEntry .shareEntry-box { -webkit-box-flex: 1; box-flex: 1; display: -webkit-box !important; display: box !important; box-sizing: border-box; -webkit-box-align: center; box-align: center; }
 .openBox-shareEntry .shareEntry-box .shareEntry-icon { height: 40px; width: 40px; background: url(style/images/shareentry-logo.png) no-repeat; background-size: 40px 40px; border-radius: 4px; overflow: hidden; margin-right: 12px; }
 .openBox-shareEntry .shareEntry-box .shareEntry-text { -webkit-box-flex: 1; box-flex: 1; }
