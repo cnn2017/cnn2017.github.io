@@ -14,7 +14,7 @@ body{ background: #f9f9f9 !important;}
 .mainNav .navBtn {width:43px;height:43px;position:absolute;top:0px;right:0px;outline:none;text-indent: 999em; background: url(all.png) no-repeat; background-size:100px auto; background-position:11px -22px;}
 
 /*微信二维码*/
-.wx_code{position:fixed;width:auto;height:auto;margin-left:35%;top:220px;border:0;padding:0;background-color:#d4000e;z-index:999999999999;}
+.wx_code{position:fixed;width:auto;height:auto;margin-left:68%;top:220px;border:0;padding:0;background-color:#d4000e;z-index:999999999999;}
 
 /*气泡框*/
 .tag{ width:150px; height:120px; border:1px solid #d4000e; position:relative; background-color:#FFF004;margin-top:-120px;margin-left:125px;}
